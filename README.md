@@ -5,3 +5,6 @@
 
 <h2>FS Module-</h2>
 <p>The built-in Node.js file system module helps us store, access, and manage data on our operating system. Commonly used features of the fs module include fs.readFile to read data from a file, fs.writeFile to write data to a file and replace the file if it already exists, fs.watchFile to get notified of changes, and fs.appendFile to append data to a file. The fs core module is available in every Node.js project without having to install it.</p>
+
+<h2>OS Module</h2>
+<p>The os module is a built-in Nodejs module that is used to get information about a computer’s operating system. In other words, the os module provides operating system-related utility methods and properties.</p>
