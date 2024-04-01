@@ -24,3 +24,16 @@
   <li>_.cloneDeep</li>
   <li>_. sortedUniq</li>
 </ui>
+
+<h1>Server</h1>
+<p>There are lots of methods out there to send or receive data acoording to the need</p>
+<ui>
+  <li>Get</li>
+  <li>Post</li>
+  <li>Patch</li>
+  <li>Delete</li>
+</ui>
+
+<h2>Get</h2>
+<p>Used to request the data from server</p>
+<p>when user enter a website URL in browser  , it sends a GET request to server to fetch the web page</p>
