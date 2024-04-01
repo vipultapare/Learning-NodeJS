@@ -39,6 +39,18 @@ app.get('/chicken',(req,res)=>{
   res.send("Sure")
 })
 
+app.get('/idli',(req,res)=>{
+  var type = {
+    name:"rava idli",
+    size:"12",
+    is_sambhar:true
+  }
+  res.send(type)
+})
+
+app.post('/items',(req,res)=>{
+  res.send("data showed")
+})
 app.listen(3000,()=>{
   console.log("Server Listening")
 })
