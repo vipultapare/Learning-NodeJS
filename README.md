@@ -37,3 +37,6 @@
 <h2>Get</h2>
 <p>Used to request the data from server</p>
 <p>when user enter a website URL in browser  , it sends a GET request to server to fetch the web page</p>
+
+<h2>Mangoose</h2>
+<p>it is a object modelling (ODM) library for mongoDB and Node.js . It is like a translator between node and mongodb. It organises the data. It ensures  data is putted correctly in db. Make code easy to read and provide structured code.</p>
